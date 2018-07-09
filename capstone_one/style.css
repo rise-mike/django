@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  font-family: 'Abril Fatface';
+  background: #c5d1e5;
+  border: 40px solid blue;
+  border-top: 0px;
+  margin: 0px
+}
+
+h1{
+  margin-top: 0px;
+}
+
+h2{
+  font-style: italic;
+}
+
+p{
+  padding-top: 5%;
+}
+#form-title{
+  /* text-align: center; */
+  margin: auto;
+  width: 300px;
+  margin-bottom: 10px;
+}
+input{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+form {
+  margin: auto;
+  width: 200px;
+}
+
+button {
+  border: 5px solid black;
+  padding: 10px;
+  border-radius: 20px; 
+  background: black;
+  color: white;
+  font-weight: bolder;
+}
+img {
+  border: 5px green solid;
+  border-radius: 15px;
+}

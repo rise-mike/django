@@ -1,0 +1,57 @@
+
+p {
+  font-family: cursive;
+}
+body {
+  font-size: 1em;
+  font-family: 'Lobster', cursive;
+}
+
+h1 {
+  text-align: center
+}
+
+#top {
+  border: 4px solid blue;
+  width: 25%;
+  text-align: center;
+  margin: auto
+
+}
+
+#bottom {
+  border: 4px solid red;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+#assess {
+  font-family: 'Shadows Into Light', cursive;
+}
+table {
+  margin: auto;
+}
+td {
+  margin-left: 100px;
+  width: 150px;
+  height: 300px;
+  border: 6px solid white;
+}
+#first {
+  background-color: #002626;
+}
+#second {
+  background-color: #0E4749;
+}
+#third {
+  background-color: #95C623;
+}
+#fourth {
+  background-color: #E55812;
+}
+#fifth {
+  background-color: #EFE7DA;
+}
